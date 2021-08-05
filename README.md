@@ -9,3 +9,4 @@ https://www.jetbrains.com/academy/
 | Simple Banking System | 🔷 Medium |
 | Web Scraper | 🔷 Medium |
 | Text Generator | ♦️ Hard |
+| Weather App | ♦️ Hard |
