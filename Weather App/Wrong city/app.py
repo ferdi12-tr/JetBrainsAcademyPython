@@ -7,7 +7,7 @@ from flask_sqlalchemy import SQLAlchemy
 from flask import abort, redirect, url_for
 from flask import flash
 
-API_key = "5a06af075345ab2460f215b788e49541"
+API_key = "????"  # create api key on https://openweathermap.org/api
 app = Flask(__name__)
 app.secret_key = "super secret key"
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///weather.db'
