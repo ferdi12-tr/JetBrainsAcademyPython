@@ -4,7 +4,7 @@ import sys
 import json
 import datetime
 
-API_key = "5a06af075345ab2460f215b788e49541"
+API_key = "????"  # create api key on https://openweathermap.org/api
 app = Flask(__name__)
 
 
